@@ -9,5 +9,6 @@ https://www.rondhuit.com/download.html#ldcc
 
 
 
-### This is inspired by a great article "BERT in Keras with Tensorflow hub" by Jacob Zweig
+
+#### This is inspired by a great article "BERT in Keras with Tensorflow hub" by Jacob Zweig
 https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
